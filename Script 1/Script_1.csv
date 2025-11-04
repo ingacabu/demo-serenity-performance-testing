@@ -1,0 +1,81 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1728224656578,2026,Iniciar sesión,200,OK,Usuarios 1-1,text,true,,47663,372,1,1,https://demo.serenity.is/Account/Login/?ReturnUrl=%2F&demouser=admin&password=serenity,897,0,708
+1728224656578,903,Iniciar sesión-0,301,Moved Permanently,Usuarios 1-1,text,true,,477,186,1,1,http://demo.serenity.is/Account/Login/?ReturnUrl=%2F&demouser=admin&password=serenity,897,0,708
+1728224657484,1120,Iniciar sesión-1,200,OK,Usuarios 1-1,text,true,,47186,186,1,1,https://demo.serenity.is/Account/Login/?ReturnUrl=%2F&demouser=admin&password=serenity,948,0,604
+1728224658611,532,Formulario,200,OK,Usuarios 1-1,text,true,,47642,1829,1,1,https://demo.serenity.is/Account/Login/?ReturnUrl=%2FNorthwind%2FSupplier,174,0,0
+1728224658611,174,Formulario-0,301,Moved Permanently,Usuarios 1-1,text,true,,434,775,1,1,http://demo.serenity.is/Northwind/Supplier#edit/18,174,0,0
+1728224658786,177,Formulario-1,302,Found,Usuarios 1-1,,true,,291,512,1,1,https://demo.serenity.is/Northwind/Supplier,177,0,0
+1728224658963,180,Formulario-2,200,OK,Usuarios 1-1,text,true,,46917,542,1,1,https://demo.serenity.is/Account/Login/?ReturnUrl=%2FNorthwind%2FSupplier,178,0,0
+1728224659145,178,Cerrar sesión,301,Moved Permanently,Usuarios 1-1,text,true,,426,504,1,1,http://demo.serenity.is/Account/Signout,177,0,0
+1728224674481,1266,Iniciar sesión,200,OK,Usuarios 1-2,text,true,,47663,372,1,1,https://demo.serenity.is/Account/Login/?ReturnUrl=%2F&demouser=admin&password=serenity,356,0,174
+1728224674481,356,Iniciar sesión-0,301,Moved Permanently,Usuarios 1-2,text,true,,477,186,1,1,http://demo.serenity.is/Account/Login/?ReturnUrl=%2F&demouser=admin&password=serenity,356,0,174
+1728224674838,909,Iniciar sesión-1,200,OK,Usuarios 1-2,text,true,,47186,186,1,1,https://demo.serenity.is/Account/Login/?ReturnUrl=%2F&demouser=admin&password=serenity,734,0,384
+1728224675752,542,Formulario,200,OK,Usuarios 1-2,text,true,,47642,1829,1,1,https://demo.serenity.is/Account/Login/?ReturnUrl=%2FNorthwind%2FSupplier,172,0,0
+1728224675752,172,Formulario-0,301,Moved Permanently,Usuarios 1-2,text,true,,434,775,1,1,http://demo.serenity.is/Northwind/Supplier#edit/18,172,0,0
+1728224675924,180,Formulario-1,302,Found,Usuarios 1-2,,true,,291,512,1,1,https://demo.serenity.is/Northwind/Supplier,180,0,0
+1728224676104,190,Formulario-2,200,OK,Usuarios 1-2,text,true,,46917,542,1,1,https://demo.serenity.is/Account/Login/?ReturnUrl=%2FNorthwind%2FSupplier,189,0,0
+1728224676295,178,Cerrar sesión,301,Moved Permanently,Usuarios 1-2,text,true,,426,504,1,1,http://demo.serenity.is/Account/Signout,178,0,0
+1728224692482,3179,Iniciar sesión,200,OK,Usuarios 1-3,text,true,,47663,372,1,1,https://demo.serenity.is/Account/Login/?ReturnUrl=%2F&demouser=admin&password=serenity,1112,0,673
+1728224692482,1113,Iniciar sesión-0,301,Moved Permanently,Usuarios 1-3,text,true,,477,186,1,1,http://demo.serenity.is/Account/Login/?ReturnUrl=%2F&demouser=admin&password=serenity,1112,0,673
+1728224693595,2066,Iniciar sesión-1,200,OK,Usuarios 1-3,text,true,,47186,186,1,1,https://demo.serenity.is/Account/Login/?ReturnUrl=%2F&demouser=admin&password=serenity,1629,0,635
+1728224695662,2437,Formulario,200,OK,Usuarios 1-3,text,true,,47650,1829,1,1,https://demo.serenity.is/Account/Login/?ReturnUrl=%2FNorthwind%2FSupplier,454,0,0
+1728224695662,454,Formulario-0,301,Moved Permanently,Usuarios 1-3,text,true,,434,775,1,1,http://demo.serenity.is/Northwind/Supplier#edit/18,454,0,0
+1728224696117,356,Formulario-1,302,Found,Usuarios 1-3,,true,,291,512,1,1,https://demo.serenity.is/Northwind/Supplier,356,0,0
+1728224696472,1626,Formulario-2,200,OK,Usuarios 1-3,text,true,,46925,542,1,1,https://demo.serenity.is/Account/Login/?ReturnUrl=%2FNorthwind%2FSupplier,443,0,0
+1728224698099,175,Cerrar sesión,301,Moved Permanently,Usuarios 1-3,text,true,,426,504,1,1,http://demo.serenity.is/Account/Signout,175,0,0
+1728224710481,2125,Iniciar sesión,200,OK,Usuarios 1-4,text,true,,47671,372,1,1,https://demo.serenity.is/Account/Login/?ReturnUrl=%2F&demouser=admin&password=serenity,750,0,316
+1728224710481,750,Iniciar sesión-0,301,Moved Permanently,Usuarios 1-4,text,true,,477,186,1,1,http://demo.serenity.is/Account/Login/?ReturnUrl=%2F&demouser=admin&password=serenity,750,0,316
+1728224711232,1374,Iniciar sesión-1,200,OK,Usuarios 1-4,text,true,,47194,186,1,1,https://demo.serenity.is/Account/Login/?ReturnUrl=%2F&demouser=admin&password=serenity,1200,0,859
+1728224712607,545,Formulario,200,OK,Usuarios 1-4,text,true,,47642,1829,1,1,https://demo.serenity.is/Account/Login/?ReturnUrl=%2FNorthwind%2FSupplier,182,0,0
+1728224712607,182,Formulario-0,301,Moved Permanently,Usuarios 1-4,text,true,,434,775,1,1,http://demo.serenity.is/Northwind/Supplier#edit/18,182,0,0
+1728224712790,181,Formulario-1,302,Found,Usuarios 1-4,,true,,291,512,1,1,https://demo.serenity.is/Northwind/Supplier,181,0,0
+1728224712971,181,Formulario-2,200,OK,Usuarios 1-4,text,true,,46917,542,1,1,https://demo.serenity.is/Account/Login/?ReturnUrl=%2FNorthwind%2FSupplier,180,0,0
+1728224713153,183,Cerrar sesión,301,Moved Permanently,Usuarios 1-4,text,true,,426,504,1,1,http://demo.serenity.is/Account/Signout,183,0,0
+1728224728478,1277,Iniciar sesión,200,OK,Usuarios 1-5,text,true,,47663,372,1,1,https://demo.serenity.is/Account/Login/?ReturnUrl=%2F&demouser=admin&password=serenity,377,0,196
+1728224728478,377,Iniciar sesión-0,301,Moved Permanently,Usuarios 1-5,text,true,,477,186,1,1,http://demo.serenity.is/Account/Login/?ReturnUrl=%2F&demouser=admin&password=serenity,377,0,196
+1728224728856,899,Iniciar sesión-1,200,OK,Usuarios 1-5,text,true,,47186,186,1,1,https://demo.serenity.is/Account/Login/?ReturnUrl=%2F&demouser=admin&password=serenity,729,0,381
+1728224729756,545,Formulario,200,OK,Usuarios 1-5,text,true,,47642,1829,1,1,https://demo.serenity.is/Account/Login/?ReturnUrl=%2FNorthwind%2FSupplier,183,0,0
+1728224729756,183,Formulario-0,301,Moved Permanently,Usuarios 1-5,text,true,,434,775,1,1,http://demo.serenity.is/Northwind/Supplier#edit/18,183,0,0
+1728224729940,179,Formulario-1,302,Found,Usuarios 1-5,,true,,291,512,1,1,https://demo.serenity.is/Northwind/Supplier,179,0,0
+1728224730119,182,Formulario-2,200,OK,Usuarios 1-5,text,true,,46917,542,1,1,https://demo.serenity.is/Account/Login/?ReturnUrl=%2FNorthwind%2FSupplier,181,0,0
+1728224730305,173,Cerrar sesión,301,Moved Permanently,Usuarios 1-5,text,true,,426,504,1,1,http://demo.serenity.is/Account/Signout,173,0,0
+1728224746480,1261,Iniciar sesión,200,OK,Usuarios 1-6,text,true,,47671,372,1,1,https://demo.serenity.is/Account/Login/?ReturnUrl=%2F&demouser=admin&password=serenity,365,0,177
+1728224746480,365,Iniciar sesión-0,301,Moved Permanently,Usuarios 1-6,text,true,,477,186,1,1,http://demo.serenity.is/Account/Login/?ReturnUrl=%2F&demouser=admin&password=serenity,365,0,177
+1728224746846,895,Iniciar sesión-1,200,OK,Usuarios 1-6,text,true,,47194,186,1,1,https://demo.serenity.is/Account/Login/?ReturnUrl=%2F&demouser=admin&password=serenity,721,0,366
+1728224747742,534,Formulario,200,OK,Usuarios 1-6,text,true,,47642,1829,1,1,https://demo.serenity.is/Account/Login/?ReturnUrl=%2FNorthwind%2FSupplier,176,0,0
+1728224747742,176,Formulario-0,301,Moved Permanently,Usuarios 1-6,text,true,,434,775,1,1,http://demo.serenity.is/Northwind/Supplier#edit/18,176,0,0
+1728224747919,175,Formulario-1,302,Found,Usuarios 1-6,,true,,291,512,1,1,https://demo.serenity.is/Northwind/Supplier,175,0,0
+1728224748095,181,Formulario-2,200,OK,Usuarios 1-6,text,true,,46917,542,1,1,https://demo.serenity.is/Account/Login/?ReturnUrl=%2FNorthwind%2FSupplier,180,0,0
+1728224748277,183,Cerrar sesión,301,Moved Permanently,Usuarios 1-6,text,true,,426,504,1,1,http://demo.serenity.is/Account/Signout,182,0,0
+1728224764474,3184,Iniciar sesión,200,OK,Usuarios 1-7,text,true,,47663,372,1,1,https://demo.serenity.is/Account/Login/?ReturnUrl=%2F&demouser=admin&password=serenity,921,0,672
+1728224764474,921,Iniciar sesión-0,301,Moved Permanently,Usuarios 1-7,text,true,,477,186,1,1,http://demo.serenity.is/Account/Login/?ReturnUrl=%2F&demouser=admin&password=serenity,921,0,672
+1728224765396,2262,Iniciar sesión-1,200,OK,Usuarios 1-7,text,true,,47186,186,1,1,https://demo.serenity.is/Account/Login/?ReturnUrl=%2F&demouser=admin&password=serenity,1825,0,955
+1728224767660,2248,Formulario,200,OK,Usuarios 1-7,text,true,,47642,1829,1,1,https://demo.serenity.is/Account/Login/?ReturnUrl=%2FNorthwind%2FSupplier,354,0,0
+1728224767660,354,Formulario-0,301,Moved Permanently,Usuarios 1-7,text,true,,434,775,1,1,http://demo.serenity.is/Northwind/Supplier#edit/18,354,0,0
+1728224768014,438,Formulario-1,302,Found,Usuarios 1-7,,true,,291,512,1,1,https://demo.serenity.is/Northwind/Supplier,438,0,0
+1728224768452,1456,Formulario-2,200,OK,Usuarios 1-7,text,true,,46917,542,1,1,https://demo.serenity.is/Account/Login/?ReturnUrl=%2FNorthwind%2FSupplier,440,0,0
+1728224769909,178,Cerrar sesión,301,Moved Permanently,Usuarios 1-7,text,true,,426,504,1,1,http://demo.serenity.is/Account/Signout,178,0,0
+1728224782472,2021,Iniciar sesión,200,OK,Usuarios 1-8,text,true,,47663,372,1,1,https://demo.serenity.is/Account/Login/?ReturnUrl=%2F&demouser=admin&password=serenity,1132,0,729
+1728224782472,1132,Iniciar sesión-0,301,Moved Permanently,Usuarios 1-8,text,true,,477,186,1,1,http://demo.serenity.is/Account/Login/?ReturnUrl=%2F&demouser=admin&password=serenity,1132,0,729
+1728224783605,888,Iniciar sesión-1,200,OK,Usuarios 1-8,text,true,,47186,186,1,1,https://demo.serenity.is/Account/Login/?ReturnUrl=%2F&demouser=admin&password=serenity,718,0,378
+1728224784494,542,Formulario,200,OK,Usuarios 1-8,text,true,,47650,1829,1,1,https://demo.serenity.is/Account/Login/?ReturnUrl=%2FNorthwind%2FSupplier,177,0,0
+1728224784494,177,Formulario-0,301,Moved Permanently,Usuarios 1-8,text,true,,434,775,1,1,http://demo.serenity.is/Northwind/Supplier#edit/18,177,0,0
+1728224784671,190,Formulario-1,302,Found,Usuarios 1-8,,true,,291,512,1,1,https://demo.serenity.is/Northwind/Supplier,190,0,0
+1728224784862,174,Formulario-2,200,OK,Usuarios 1-8,text,true,,46925,542,1,1,https://demo.serenity.is/Account/Login/?ReturnUrl=%2FNorthwind%2FSupplier,172,0,0
+1728224785037,179,Cerrar sesión,301,Moved Permanently,Usuarios 1-8,text,true,,426,504,1,1,http://demo.serenity.is/Account/Signout,178,0,0
+1728224800475,1264,Iniciar sesión,200,OK,Usuarios 1-9,text,true,,47663,372,1,1,https://demo.serenity.is/Account/Login/?ReturnUrl=%2F&demouser=admin&password=serenity,377,0,190
+1728224800475,377,Iniciar sesión-0,301,Moved Permanently,Usuarios 1-9,text,true,,477,186,1,1,http://demo.serenity.is/Account/Login/?ReturnUrl=%2F&demouser=admin&password=serenity,377,0,190
+1728224800853,886,Iniciar sesión-1,200,OK,Usuarios 1-9,text,true,,47186,186,1,1,https://demo.serenity.is/Account/Login/?ReturnUrl=%2F&demouser=admin&password=serenity,713,0,356
+1728224801739,532,Formulario,200,OK,Usuarios 1-9,text,true,,47642,1829,1,1,https://demo.serenity.is/Account/Login/?ReturnUrl=%2FNorthwind%2FSupplier,179,0,0
+1728224801739,179,Formulario-0,301,Moved Permanently,Usuarios 1-9,text,true,,434,775,1,1,http://demo.serenity.is/Northwind/Supplier#edit/18,179,0,0
+1728224801919,176,Formulario-1,302,Found,Usuarios 1-9,,true,,291,512,1,1,https://demo.serenity.is/Northwind/Supplier,176,0,0
+1728224802095,176,Formulario-2,200,OK,Usuarios 1-9,text,true,,46917,542,1,1,https://demo.serenity.is/Account/Login/?ReturnUrl=%2FNorthwind%2FSupplier,175,0,0
+1728224802272,176,Cerrar sesión,301,Moved Permanently,Usuarios 1-9,text,true,,426,504,1,1,http://demo.serenity.is/Account/Signout,176,0,0
+1728224818471,1311,Iniciar sesión,200,OK,Usuarios 1-10,text,true,,47663,372,1,1,https://demo.serenity.is/Account/Login/?ReturnUrl=%2F&demouser=admin&password=serenity,352,0,170
+1728224818471,352,Iniciar sesión-0,301,Moved Permanently,Usuarios 1-10,text,true,,477,186,1,1,http://demo.serenity.is/Account/Login/?ReturnUrl=%2F&demouser=admin&password=serenity,352,0,170
+1728224818824,958,Iniciar sesión-1,200,OK,Usuarios 1-10,text,true,,47186,186,1,1,https://demo.serenity.is/Account/Login/?ReturnUrl=%2F&demouser=admin&password=serenity,771,0,365
+1728224819783,552,Formulario,200,OK,Usuarios 1-10,text,true,,47642,1829,1,1,https://demo.serenity.is/Account/Login/?ReturnUrl=%2FNorthwind%2FSupplier,202,0,0
+1728224819783,202,Formulario-0,301,Moved Permanently,Usuarios 1-10,text,true,,434,775,1,1,http://demo.serenity.is/Northwind/Supplier#edit/18,202,0,0
+1728224819985,171,Formulario-1,302,Found,Usuarios 1-10,,true,,291,512,1,1,https://demo.serenity.is/Northwind/Supplier,171,0,0
+1728224820156,179,Formulario-2,200,OK,Usuarios 1-10,text,true,,46917,542,1,1,https://demo.serenity.is/Account/Login/?ReturnUrl=%2FNorthwind%2FSupplier,178,0,0
+1728224820339,179,Cerrar sesión,301,Moved Permanently,Usuarios 1-10,text,true,,426,504,1,1,http://demo.serenity.is/Account/Signout,179,0,0
